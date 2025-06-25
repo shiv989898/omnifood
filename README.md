@@ -67,8 +67,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please feel free to reach out:
 
-- **GitHub**: [eanni14](https://github.com/eanni14)
-- **Email**: eanni14@example.com
+- **Email**: shivgoyal9988@gmail.com
 
 ## 🌟 Explore More
 
