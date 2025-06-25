@@ -1,7 +1,4 @@
 # 🌟 Omnifood: A Modern Restaurant Website 🌟
-
-![Omnifood Logo](https://omnifood-delta-nine.vercel.app/)
-
 Welcome to the **Omnifood** repository! This project features a responsive and static restaurant website designed with a modern user interface. Built using HTML, CSS, Bootstrap, and JavaScript, Omnifood offers a seamless experience for users looking to explore restaurant options online.
 
 ## 📥 Get Started
